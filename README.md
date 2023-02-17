@@ -1,4 +1,4 @@
-# react-reglar-class
+# react-regular-class
 Kontribusi pertama kelas React Regular.
 
 List nama:
